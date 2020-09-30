@@ -16,8 +16,8 @@
   padding: 7px;
 }
 
-.static {
-  position: static;
+.relative {
+  position: relative;
   left: 30px;
 }
 
