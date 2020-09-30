@@ -2,19 +2,17 @@
 
 header{
   background:#000000;
-  color:#ffffff;
+  color:#ff0000;
   padding-top:30px;
   min-height:70px;
   }
 
 header a{
-  color:#ffffff;
+  color:#ffc266;
   text-decoration:none;
   text-transform: uppercase;
   font-size:16px;
   }
-
-
 
 header li{float:left;
   display:inline;
@@ -24,8 +22,6 @@ header li{float:left;
 header #branding{
   float:left;
   }
-
-
 
 header #branding h1{  
        margin:0;
@@ -44,7 +40,7 @@ header nav{
   }
 
 header .highlight, header .current a{
-  color:#fffff;
+  color:#ff0000;
   font-weight:bold;
    }
 
