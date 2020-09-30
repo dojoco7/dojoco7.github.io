@@ -16,6 +16,11 @@
   padding: 7px;
 }
 
+.static {
+  position: static;
+  left: 30px;
+}
+
 .row:after {
   content: "";
   clear: both;
