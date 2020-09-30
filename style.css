@@ -1,5 +1,5 @@
-/** Style**/
-    body {background-color: #000000;}
+
+    body {background: #000000;}
 
   img {display: block;
       margin-left: auto;
@@ -17,7 +17,6 @@
      margin-left: 75px;
      margin-right: 75px;}
 
-/**Header **/
 
 header{
   background:#000000;
@@ -27,7 +26,7 @@ header{
   }
 
 header a{
-  color:#ffc266;
+  color:#000000;
   text-decoration:none;
   text-transform: uppercase;
   font-size:16px;
