@@ -22,7 +22,7 @@
      margin-left: 75px;
      margin-right: 75px;
      color:#03DAC6;
-     font-size:14px;
+     font-size:18px;
 }
 
 
@@ -37,7 +37,7 @@ header a{
   color:#03DAC6;
   text-decoration:none;
   text-transform: uppercase;
-  font-size:16px;
+  font-size:20px;
   }
 
 header li{float:left;
@@ -53,12 +53,7 @@ header #branding h1{
        margin:0;
        }
 
-.cc {
-  object-fit: contain; /* Do not scale the image */
-  object-position: center; /* Center the image within the element */
-  height: 200px;
-  width: 200px;
-  }
+
 
 header nav{
   float:right;
