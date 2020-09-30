@@ -19,8 +19,8 @@
      color:#BB86FC}           
 
   p {text-align: center;
-     margin-left: 75px;
-     margin-right: 75px;
+     margin-left: auto;
+     margin-right: auto;
      color:#03DAC6;
      font-size:18px;
 }
@@ -30,7 +30,7 @@ header{
   background:#FFFFFF;
   color:#6200EE;
   padding-top:30px;
-  padding-bottom:30px;  
+  padding-bottom:20px;  
   min-height:70px;
   }
 
