@@ -1,13 +1,17 @@
 
-    body {background: #000000;}
+    body {background: #000000;
+}
 
   img {display: block;
       margin-left: auto;
-      margin-right: auto;}
+      margin-right: auto;
+}
 
   h1 {text-align: center;
      margin-left: auto;
-     margin-right: auto;}           
+     margin-right: auto;
+     color:#ff0000;
+}           
 
   h2 {text-align: center;
      margin-left: auto;
@@ -15,7 +19,10 @@
 
   p {text-align: center;
      margin-left: 75px;
-     margin-right: 75px;}
+     margin-right: 75px;
+     color:#ffc266;
+     font-size:14px;
+}
 
 
 header{
