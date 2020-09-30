@@ -10,31 +10,31 @@
   h1 {text-align: center;
      margin-left: auto;
      margin-right: auto;
-     color:#ff0000;
+     color:#BB86FC;
 }           
 
   h2 {text-align: center;
      margin-left: auto;
      margin-right: auto;
-     color:#ff0000}           
+     color:#BB86FC}           
 
   p {text-align: center;
      margin-left: 75px;
      margin-right: 75px;
-     color:#ffc266;
+     color:#03DAC6;
      font-size:14px;
 }
 
 
 header{
-  background:#000000;
-  color:#ff0000;
+  background:#FFFFFF;
+  color:#6200EE;
   padding-top:30px;
   min-height:70px;
   }
 
 header a{
-  color:#ff0000;
+  color:#03DAC6;
   text-decoration:none;
   text-transform: uppercase;
   font-size:16px;
@@ -66,11 +66,11 @@ header nav{
   }
 
 header .highlight, header .current a{
-  color:#ff0000;
+  color:#018786;
   font-weight:bold;
    }
 
 header a:hover{
-  color:#ffc266;
+  color:#018786;
   font-weight:bold;
    }
