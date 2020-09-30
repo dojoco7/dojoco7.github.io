@@ -12,8 +12,8 @@
 
 .column {
   float: right;
-  width: 33.33%;
-  height: 33.33%
+  width: auto;
+  height: auto;
   padding: 7px;
 }
 
