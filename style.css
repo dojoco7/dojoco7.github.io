@@ -10,8 +10,7 @@
   height: 40%;
 }
 
-.column {
-  float: right;
+.column {  
   width: auto;
   height: auto;
   padding: 7px;
