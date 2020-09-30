@@ -1,0 +1,54 @@
+/* Header **/
+
+header{
+  background:#000000;
+  color:#ffffff;
+  padding-top:30px;
+  min-height:70px;
+  }
+
+header a{
+  color:#ffffff;
+  text-decoration:none;
+  text-transform: uppercase;
+  font-size:16px;
+  }
+
+
+
+header li{float:left;
+  display:inline;
+  padding: 0 20px 0 20px;
+  }
+
+header #branding{
+  float:left;
+  }
+
+
+
+header #branding h1{  
+       margin:0;
+       }
+
+.cc {
+  object-fit: contain; /* Do not scale the image */
+  object-position: center; /* Center the image within the element */
+  height: 200px;
+  width: 200px;
+  }
+
+header nav{
+  float:right;
+  margin-top:10px;
+  }
+
+header .highlight, header .current a{
+  color:#fffff;
+  font-weight:bold;
+   }
+
+header a:hover{
+  color:#ffc266;
+  font-weight:bold;
+   }
