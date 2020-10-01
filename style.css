@@ -1,31 +1,19 @@
 
-    body {background: #000000;
-}
+  body {background: #000000;
+  }
  
 .center {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
-  height: 40%;
-}
-
-.column {  
-  width: auto;
-  height: auto;
-  padding: 7px;
-}
+  max-width: 40%;
+  max-height: 40%;
+   }
 
 .relative {
   position: relative;
   left: 22%;
-}
-
-.row:after {
-  content: "";
-  clear: both;
-  display: table;
-} 
+  }
 
   h1 {text-align: center;
      margin-left: auto;
@@ -43,10 +31,9 @@
      margin-right: auto;
      color:#03DAC6;
      font-size:18px;
-}
-
-
-header{
+     }
+ 
+header {
   background:#FFFFFF;
   color:#6200EE;
   padding-top:30px;
@@ -61,36 +48,37 @@ header a{
   font-size:20px;
   }
 
-header li{float:left;
+header li {float:left;
   display:inline;
   padding: 0 20px 0 20px;
   }
 
-header #branding{
+header #branding {
   float:left;
   }
 
-header #branding h1{  
+header #branding h1 {  
        margin:0;
        }
 
-header nav{
+header nav {
   float:right;
   margin-top:10px;
   padding-bottom: 10px;
   }
 
-header .highlight, header .current a{
+header .highlight, header .current a {
   color:#018786;
   font-weight:bold;
    }
 
-header a:hover{
+header hover {
   color:#018786;
   font-weight:bold;
    }
-footer{
+
+footer {
     float: left;
     color:018786;
     font-weight:bold;
-}
+    }
