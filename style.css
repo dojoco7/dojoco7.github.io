@@ -89,3 +89,8 @@ header a:hover{
   color:#018786;
   font-weight:bold;
    }
+footer{
+    float: left;
+    color:018786;
+    font-weight:bold;
+}
