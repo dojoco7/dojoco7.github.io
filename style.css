@@ -7,6 +7,19 @@
   left: 22%;
   }
 
+table {
+  boarde-collapse: collapse;
+}
+
+table p {
+  text-align: center;
+}
+
+table td {
+  boarder: 2px solid #03dac6;
+  padding 4px 8px;
+}
+
   h1 {text-align: center;
      margin-left: auto;
      margin-right: auto;
