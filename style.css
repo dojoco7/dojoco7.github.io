@@ -16,7 +16,9 @@ table p {
 }
 
 table td {
-  boarder: 2px solid #03dac6;
+  max-width:auto;
+  max-height: auto;
+  boarder: 4px solid #03dac6;
   padding 4px 8px;
 }
 
